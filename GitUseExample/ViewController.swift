@@ -11,7 +11,8 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBAction func AddFiles() {
-        NSLog("This is a git tutorial");
+        NSLog("This is a git tutorial")
+        print("This is a new file")
     }
     override func viewDidLoad() {
         super.viewDidLoad()
