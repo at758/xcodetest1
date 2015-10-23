@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     @IBAction func AddFiles() {
         NSLog("This is a git tutorial")
         print("This is a new file")
+        print("Yo this is cool")
     }
     override func viewDidLoad() {
         super.viewDidLoad()
