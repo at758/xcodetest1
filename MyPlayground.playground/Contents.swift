@@ -11,3 +11,10 @@ print("dummy")
 
 5 + 6 * 8
 
+func doAction()
+{
+    print("Playing and learning")
+}
+
+doAction()
+
